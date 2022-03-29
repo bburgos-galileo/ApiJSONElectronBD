@@ -1,0 +1,9 @@
+  img.imgResult {
+    width: 50px;;
+    height: 10px;;
+  }
+
+  img.imgResult {
+    max-width:25%;
+    max-height:25%;
+  }
